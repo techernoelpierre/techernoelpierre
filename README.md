@@ -1,4 +1,4 @@
-![Hero](/assets/hero.jpg)
+![Hero](/assets/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg)
 
 ![Python](https://img.shields.io/badge/Python-3.7-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
