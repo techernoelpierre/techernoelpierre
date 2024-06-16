@@ -2,5 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blueviolet)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.5.4-blue)
+![React](https://img.shields.io/badge/React-17.0.2-blue)
+![Next.js](https://img.shields.io/badge/Next.js-12.0.7-blueviolet)
+![Nest.js](https://img.shields.io/badge/Nest.js-8.0.0-red)
+![Golang](https://img.shields.io/badge/Go-1.18-green)
+![C](https://img.shields.io/badge/C-11-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
